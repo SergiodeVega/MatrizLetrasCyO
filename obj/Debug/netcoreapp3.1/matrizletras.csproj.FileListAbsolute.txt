@@ -1,0 +1,13 @@
+D:\20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.exe
+D:\20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.deps.json
+D:\20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.runtimeconfig.json
+D:\20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.runtimeconfig.dev.json
+D:\20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.dll
+D:\20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.pdb
+D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.csprojAssemblyReference.cache
+D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.AssemblyInfoInputs.cache
+D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.AssemblyInfo.cs
+D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.csproj.CoreCompileInputs.cache
+D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.dll
+D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.pdb
+D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.genruntimeconfig.cache
