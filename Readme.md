@@ -1,0 +1,1 @@
+He empezado a hacer la carga e impresión de la matriz por mis propios medios y conocimientos, pero todavía tengo problemas definiendo los métodos y sus argumentos. El código que me estaba saliendo era muy parecido al de Justo, así que lo he copiado para terminar antes, cambiando la posición de los asteriscos en la carga de la matriz.
