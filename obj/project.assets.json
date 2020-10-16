@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\20483C\\matrizletras\\matrizletras.csproj",
+      "projectUniqueName": "D:\\3_ 20483C\\matrizletras\\matrizletras.csproj",
       "projectName": "matrizletras",
-      "projectPath": "D:\\20483C\\matrizletras\\matrizletras.csproj",
+      "projectPath": "D:\\3_ 20483C\\matrizletras\\matrizletras.csproj",
       "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "D:\\20483C\\matrizletras\\obj\\",
+      "outputPath": "D:\\3_ 20483C\\matrizletras\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,3 +11,16 @@ D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.csproj.CoreCompileIn
 D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.dll
 D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.pdb
 D:\20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.genruntimeconfig.cache
+D:\3_ 20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.exe
+D:\3_ 20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.deps.json
+D:\3_ 20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.runtimeconfig.json
+D:\3_ 20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.runtimeconfig.dev.json
+D:\3_ 20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.dll
+D:\3_ 20483C\matrizletras\bin\Debug\netcoreapp3.1\matrizletras.pdb
+D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.csprojAssemblyReference.cache
+D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.AssemblyInfoInputs.cache
+D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.AssemblyInfo.cs
+D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.csproj.CoreCompileInputs.cache
+D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.dll
+D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.pdb
+D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.genruntimeconfig.cache
